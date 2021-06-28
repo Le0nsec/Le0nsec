@@ -1,5 +1,5 @@
 
-![Leonsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le0nsec)
+![Leonsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le0nsec&count_private=true)
 
 <!--
 **Le0nsec/Le0nsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
