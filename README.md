@@ -1,5 +1,5 @@
 
-![Leonsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le0nsec&count_private=true)
+![Leonsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le0nsec&count_private=true&theme=buefy)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le0nsec&layout=compact)
