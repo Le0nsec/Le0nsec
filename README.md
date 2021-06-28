@@ -1,9 +1,8 @@
 
-![Leonsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le0nsec&count_private=true&theme=flag-india)
+![Leonsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le0nsec&theme=flag-india)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le0nsec&layout=compact)
-
 
 
 <!--
