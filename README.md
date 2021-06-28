@@ -1,4 +1,5 @@
-### Hi there 👋
+
+[![Leonsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le0nsec)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Le0nsec/Le0nsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
