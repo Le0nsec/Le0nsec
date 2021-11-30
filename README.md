@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Leon
 
-<iframe align="right" src="https://github-readme-stats.vercel.app/api?username=Le0nsec&count_private=true&theme=buefy"></iframe>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Le0nsec&count_private=true&theme=buefy" />
 
 ``` yaml
 name: Leon
