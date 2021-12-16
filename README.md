@@ -5,7 +5,7 @@
 ``` yaml
 name: Leon
 blog: https://clq0.top/
-mail: leonsec@163.com
+mail: leonsec[at]h4ck.fun
 
 company: student now
 title: Information Security@NJUPT
