@@ -17,9 +17,10 @@ interests:
   - pentest
   
 programming-languages:
-  - golang
-  - python
-  - php
+  - Golang
+  - Python
+  - PHP
+  - C/C++
 ```
 
 <!--
