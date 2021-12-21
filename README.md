@@ -4,7 +4,7 @@
 
 ``` yaml
 name: Leon
-blog: https://clq0.top/
+blog: https://blog.h4ck.fun/
 mail: leonsec[at]h4ck.fun
 
 company: student now
