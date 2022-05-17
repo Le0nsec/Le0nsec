@@ -7,8 +7,8 @@ name: Leon
 blog: https://blog.h4ck.fun/
 mail: leonsec[at]h4ck.fun
 
-company: student now
-title: Information Security@NJUPT
+company: ByteDance
+title: Penetration Test Engineer @ Wuheng Lab [Intern]
 
 interests:
   - web security research
