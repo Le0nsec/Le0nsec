@@ -7,11 +7,11 @@ name: Leon
 blog: https://blog.h4ck.fun/
 mail: leonsec[at]h4ck.fun
 
-company: Aliyun
+company: Alibaba Cloud
 title: Security Engineer
 
 interests:
-  - web security research
+  - intrusion detection
   - ctf
   - hacking
   - pentest
